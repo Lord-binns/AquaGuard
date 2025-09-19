@@ -6,6 +6,13 @@
     <link rel="stylesheet" href="../CSS/login.css">
 </head>
 <body>
+      <header>
+    <h1>🌊 AquaGuard</h1>
+<div class="nav-buttons">
+    <a href="../pages/login.php" class="nav-btn">Log In</a>
+    <a href="../pages/register.php" class="nav-btn">Sign Up</a>
+  </div>
+  </header>
     <div class="login-container">
         <div class="image-container">
             <img src="../Resources/logo.png" alt="Library Image">
